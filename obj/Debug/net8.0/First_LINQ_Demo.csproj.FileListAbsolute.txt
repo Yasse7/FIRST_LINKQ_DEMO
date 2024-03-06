@@ -1,0 +1,15 @@
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\bin\Debug\net8.0\First_LINQ_Demo.exe
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\bin\Debug\net8.0\First_LINQ_Demo.deps.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\bin\Debug\net8.0\First_LINQ_Demo.runtimeconfig.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\bin\Debug\net8.0\First_LINQ_Demo.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\bin\Debug\net8.0\First_LINQ_Demo.pdb
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\obj\Debug\net8.0\First_LINQ_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\obj\Debug\net8.0\First_LINQ_Demo.AssemblyInfoInputs.cache
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\obj\Debug\net8.0\First_LINQ_Demo.AssemblyInfo.cs
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\obj\Debug\net8.0\First_LINQ_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\obj\Debug\net8.0\First_LINQ_Demo.sourcelink.json
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\obj\Debug\net8.0\First_LINQ_Demo.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\obj\Debug\net8.0\refint\First_LINQ_Demo.dll
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\obj\Debug\net8.0\First_LINQ_Demo.pdb
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\obj\Debug\net8.0\First_LINQ_Demo.genruntimeconfig.cache
+C:\Users\Yassir.JERRARI\OneDrive - Akkodis\Desktop\ASP_NET_CORE_FO\First_LINQ_Demo\obj\Debug\net8.0\ref\First_LINQ_Demo.dll
