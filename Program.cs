@@ -42,11 +42,21 @@ public class Program
 
         //______________________Method Syntax__________________________________________
         Console.WriteLine("---------------------------Method Syntax--------------------------------------");
-        Console.WriteLine("---------------------------Method Syntax--------------------------------------");
+       
         
         var QMethod = studentList.Where( st=> st.Age>2 && st.Age<20).ToList<Student>();//Lamba Expression
         foreach(Student stu in QMethod){
             Console.Write("this a Methode Syntax Test modified: "+stu.StudentID+"--"+stu.StudentName);
+        }
+         Console.WriteLine("---------------------------GroupBy Test--------------------------------------");
+        var GroupbyTest = from stud in studentList
+                            group stud by stud.Age;
+
+         foreach(var stu in GroupbyTest){
+          
+             Console.WriteLine("Age Group: {0}", stu.Key); //Each group has a key 
+                foreach(Student s in stu) 
+                    Console.WriteLine("Student Name: {0}", s.StudentName);
         }
 
 	}
